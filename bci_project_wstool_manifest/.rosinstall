@@ -1,0 +1,34 @@
+- git: {local-name: model_rec2, uri: 'git@github.com:CURG/model_rec2.git', version: master}
+- git: {local-name: graspit_python_node, uri: 'git@github.com:CURG/graspit_python_node.git',
+    version: master}
+- git: {local-name: trajectory_planner, uri: 'git@github.com:CURG/trajectory_planner.git',
+    version: master}
+- git: {local-name: staubli_tx60, uri: 'git@github.com:CURG/staubliTX60.git', version: master}
+- git: {local-name: bci_experiment_launch, uri: 'git@github.com:CURG/bci_experiment_launch.git',
+    version: mico-branch}
+- git: {local-name: graspit_msgs, uri: 'git@github.com:CURG/graspit_msgs.git', version: master}
+- git: {local-name: checkerboard_detection, uri: 'git@github.com:CURG/checkerboard_detection.git',
+    version: master}
+- git: {local-name: pose_msgs, uri: 'git@github.com:CURG/pose_msgs.git', version: master}
+- git: {local-name: calibration, uri: 'git@github.com:CURG/calibration.git', version: master}
+- git: {local-name: pc_filter, uri: 'git@github.com:CURG/pc_filter.git', version: master}
+- git: {local-name: v4r_libraries, uri: 'git@github.com:CURG/v4r_libraries.git', version: master}
+- git: {local-name: pr_msgs, uri: 'git@github.com:CURG/pr_msgs.git', version: master}
+- git: {local-name: owd, uri: 'git@github.com:CURG/owd.git', version: master}
+- git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git', version: master}
+- git: {local-name: rqt_monitor, uri: 'git@github.com:CURG/rqt_monitor.git', version: master}
+- git: {local-name: moveit_trajectory_planner, uri: 'git@github.com:CURG/moveit_trajectory_planner.git',
+    version: mico-branch}
+- git: {local-name: staubli_barretthand_description, uri: 'git@github.com:CURG/staubli_barretthand_description.git',
+    version: master}
+- git: {local-name: staubli_barretthand_moveit_config, uri: 'git@github.com:CURG/staubli_barretthand_moveit_config.git',
+    version: master}
+- git: {local-name: staubli, uri: 'git@github.com:CURG/staubli.git', version: master}
+- git: {local-name: barrett_model, uri: 'git@github.com:CURG/barrett_model.git', version: master}
+- git: {local-name: mock_vision, uri: 'git@github.com:CURG/mock_vision.git', version: master}
+- git: {local-name: mock_graspit, uri: 'git@github.com:CURG/mock_graspit.git', version: master}
+- git: {local-name: mock_model_rec2, uri: 'git@github.com:CURG/mock_model_rec2.git',
+    version: master}
+- git: {local-name: rviz, uri: 'git@github.com:CURG/rviz.git', version: hydro-devel}
+- git: {local-name: rgbd_launch, uri: 'https://github.com/ros-drivers/rgbd_launch/tree/hydro-devel'}
+- git: {local-name: lcsr_tf_tools, uri: 'https://github.com/jhu-lcsr/lcsr_tf_tools.git'}

@@ -1,8 +1,7 @@
-bci_project_wstool_manifest
+wstool manifest bci project
 ===========================
 
-This repository contains the files necessary to install the bci project in a new computer.
+This repository contains the files necessary to install the correct repositories for each workspace in the BCI project.
 
-1. Create folder bci_project_ws. Clone this repository inside bci_project_ws/src.
-2. Run the install.sh script to ensure proper programs and libraries are installed (wstool , pip, sci-kit).
-3. Run `wstool update` to pull correct version of all repositories.
+1. Run install.sh to ensure your system has installed the necessary programs and libraries (wstool, pip, scikit).
+2. In each workspace, clone the 
