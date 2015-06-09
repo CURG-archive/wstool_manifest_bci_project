@@ -1,0 +1,7 @@
+*
+!.rosinstall*
+!.gitignore
+!check_diffs.sh
+!install.sh
+!jenkinsscript.sh
+!*.sh
